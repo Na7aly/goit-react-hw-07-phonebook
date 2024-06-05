@@ -1,5 +1,5 @@
 {
-  "name": "react-homework-template",
+  "name": "goit-react-hw-07-phonebook",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://Na7aly.github.io/goit-react-hw-07-phonebook/",
@@ -42,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
